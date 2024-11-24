@@ -1,0 +1,9 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyBD-CvQgPdkLsLzTkhUkvm1dvD20uKNwrM",
+    authDomain: "fitnessapp-bb4eb.firebaseapp.com",
+    projectId: "fitnessapp-bb4eb",
+    storageBucket: "fitnessapp-bb4eb.firebasestorage.app",
+    messagingSenderId: "283630413914",
+    appId: "1:283630413914:web:4522ef3db8450584efd063",
+    measurementId: "G-SPVH9GWDN1"
+  };
