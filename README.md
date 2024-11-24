@@ -46,7 +46,7 @@ This application was developed for testing react native integration with emailjs
 
 ## emailJS
 first we should create a mail service on https://www.emailjs.com/ then the appearance of the mail to be sent should be set in the mail templates section if you are using the free version of emailjs you should get ready values ​​such as service id from the database 
-```
+```JS
 onValue(ref(db,'Emailjs/'),(snapshot)=>{
 console.log('public key:'+snapshot.child('/publickey').val());
 console.log('template id:'+snapshot.child('/templateid').val());
