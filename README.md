@@ -1,7 +1,5 @@
 ## Information
 
-A project has been developed with React Native Expo that tracks and reminds daily goals for React Native learners
-
 SDK level ``51.0.0``
 
 Create new project at https://console.firebase.google.com, used ``Firebase/Database`` Realtime Database used in this project
